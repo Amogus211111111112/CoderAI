@@ -11,3 +11,5 @@ CoderAI verwendet Python Bibliotheken:
 Das schwirigste war es das verhalten des KI Agenten einzustellen
 
 Es wird empfohlen denn KI Agenten nicht zu sehr viel zu schreiben, weil OpenAi kann denn Zugriff drauf verweigern
+
+um denn KI Agenten zu starten starte die Datei app.py
